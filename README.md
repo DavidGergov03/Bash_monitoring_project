@@ -19,3 +19,8 @@ Install them on a Debian/Ubuntu system with:
 ```bash
 sudo apt update
 sudo apt install jq vnstat gnuplot net-tools
+
+## Notes on Safety and Privacy
+
+- The files `GNU.txt` and `gnu.png` included in this repository were generated in a controlled environment (Ubuntu virtual machine) and do not contain sensitive information such as IP addresses or hostnames.
+- If you generate these files in a different environment, ensure no personal or sensitive data is exposed before sharing.
